@@ -159,15 +159,19 @@ Meta-Ads-Performance-Dashboard/
 │   └── Meta_Ads_Performance.pbix
 │
 ├── Dataset/
-│   └── Meta_Ads_Dataset.csv
+│   ├── ad_events.csv
+│   ├── ads.csv
+│   ├── campaigns.csv
+│   └── users.csv
 │
 ├── Screenshots/
 │   ├── dashboard_overview.png
-│   ├── campaign_analysis.png
-│   ├── audience_analysis.png
-│   ├── geographic_analysis.png
-│   ├── weekly_trends.png
-│   └── ad_type_analysis.png
+│   ├── Impressions_analysis.png
+│   ├── Clicks_analysis.png
+│   ├── Engagements_analysis.png
+│   ├── Shares_analysis.png
+│   ├── Purchases_analysis.png
+│   └── Comments_analysis.png
 │
 ├── Documentation/
 │   └── dashboard_report.pdf
